@@ -2,12 +2,13 @@
 
 🧠 Computer science and design student at IIIT Delhi
 
-🔭 I’m currently working on **LEON, a dedicated gym and fitness application**
-👯 I’m looking to collaborate on **projects that bridge clean UI/UX design with solid logic**
-🤝 I’m looking for help with **mastering Vite and Riverpod**
-🌱 I’m currently learning **advanced design concepts and core coding fundamentals**
-💬 Ask me about **UI/UX design principles, Java, C++, or student life**
-⚡ Fun fact: **When I'm not coding, I'm working on creating visuals or playing Resident Evil Requiem**
+🧠 Computer science and design student at IIIT Delhi<br><br>
+🔭 I’m currently working on **LEON, a dedicated gym and fitness application**<br>
+👯 I’m looking to collaborate on **projects that bridge clean UI/UX design with solid logic**<br>
+🤝 I’m looking for help with **mastering Vite and Riverpod**<br>
+🌱 I’m currently learning **advanced design concepts and core coding fundamentals**<br>
+💬 Ask me about **UI/UX design principles, Java, C++, or student life**<br>
+⚡ Fun fact: **When I'm not coding, I'm working on a lean build with a PPL gym split or playing Resident Evil Requiem**
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luvyuh.smth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luvya Nishad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuvYuh_png) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luvya24321@iiitd.ac.in) 
